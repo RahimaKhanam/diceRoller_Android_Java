@@ -1,5 +1,7 @@
 # diceRoller_Android_Java
 
+For building a Dice roller we need the understanding of generating a random number. This is actually pretty cool stuff, and we can even use it to pick a random color, flipping a coin, or throwing virtual dice, etc. It's useful for people who can’t make decisions. It’s a rather simple project, with very simple logic.
+
 I have made this project on Android Studio referring https://www.geeksforgeeks.org/how-to-build-a-dice-game-in-android/.
 
 
