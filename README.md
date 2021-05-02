@@ -1,6 +1,6 @@
 # diceRoller_Android_Java
 
-I have made this project on Android Studio using the link https://www.geeksforgeeks.org/how-to-build-a-dice-game-in-android/.
+I have made this project on Android Studio referring https://www.geeksforgeeks.org/how-to-build-a-dice-game-in-android/.
 
 
 ### This is how the UI of the App looks like:
